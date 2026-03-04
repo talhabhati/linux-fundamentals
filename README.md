@@ -25,4 +25,4 @@ linux-fundamentals/
 │   ├── process-management.md
 │   └── performance-monitoring.md
 │
-└── interview-notes.md [fundamental linux lectures.docx](https://github.com/user-attachments/files/25744096/fundamental.linux.lectures.docx)
+└── interview-notes.md
